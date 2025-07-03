@@ -1,7 +1,7 @@
 # Unity Audio Clip Preview
 Preview Audio Clips in the Inspector!
 
-Simply put `AudioClipPreviewDrawer` in `Assets/Editor` or in an `Editor` folder. 
+Simply put `AudioClipPreviewDrawer` in `Assets/Editor` or in any `Editor` folder. 
 
 Works in Unity 6.0+
 
